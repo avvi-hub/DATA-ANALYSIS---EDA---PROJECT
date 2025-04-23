@@ -1,0 +1,14 @@
+# Exploratory Data Analysis on Netflix Sales Data
+This project performs EDA on a Netflix sales dataset. It explores trends in product sales, customer data, and purchase behavior.
+
+## Tools/Technologies Used:
+- Python
+- Pandas
+- Matplotlib
+- Seaborn
+- Jupyter Notebook
+
+## Key Findings:
+- Popular product categories
+- Time-based trends in purchases
+- Customer segmentation across countries
